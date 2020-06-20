@@ -1,0 +1,30 @@
+img {
+  display: block;
+}
+ul {
+  list-style-type: none;
+}
+
+.ps4 {
+  background-color: #457b9d;
+}
+.switch {
+  background-color: #ef233c;
+}
+.pc {
+  background-color: #06d6a0;
+}
+table {
+  border: 5px solid grey;
+  border-radius: 5px;
+  border-bottom: 1px solid grey;
+  border-top: 1px solid grey;
+  border-left: 1px solid grey;
+  border-right: 1px solid grey;
+}
+th {
+  border: grey dotted 1px;
+}
+td {
+  border: grey dotted 1px;
+}
